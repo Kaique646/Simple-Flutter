@@ -5,6 +5,5 @@
 ### Navegação com passagem de dados
 ### entre as páginas
 ### Alteração de estado com setstate()
-### Widget com imagem, gráfico
-ou recurso visual diferenciado.
+### Widget com imagem, gráfico ou recurso visual diferenciado.
 
